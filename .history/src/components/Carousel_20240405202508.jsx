@@ -7,8 +7,8 @@ function MyCarousel() {
         <div className="flex h-full items-center justify-center bg-gray-400 dark:bg-gray-700 dark:text-white position-relative">
           <img src="/src/assets/hero2.jpg" alt="image1" className="object-cover w-full h-full" />
           <div className="absolute inset-0 flex items-center justify-center text-center">
-            <div className="text-orange text-xl font-bold font-mono">
-             Coduza com Segurança
+            <div className="text-orangelight text-lg font-semibold font-mono">
+             Coduza com 
             </div>
           </div>
         </div>
